@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+*.egg
+
+# Generated data and output
+data/lidar/
+data/footprints/
+output/
+
+# Keep batch input JSON files in data/
+!data/*.json
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo

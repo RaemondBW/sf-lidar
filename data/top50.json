@@ -1,0 +1,302 @@
+[
+  {
+    "rank": 1,
+    "name": "Salesforce Tower",
+    "lat": 37.7899,
+    "lon": -122.3969
+  },
+  {
+    "rank": 2,
+    "name": "Transamerica Pyramid",
+    "lat": 37.795167,
+    "lon": -122.40279
+  },
+  {
+    "rank": 3,
+    "name": "181 Fremont",
+    "lat": 37.7897,
+    "lon": -122.39535
+  },
+  {
+    "rank": 4,
+    "name": "555 California Street",
+    "lat": 37.7921036,
+    "lon": -122.40377
+  },
+  {
+    "rank": 5,
+    "name": "345 California Center",
+    "lat": 37.7926,
+    "lon": -122.400463
+  },
+  {
+    "rank": 6,
+    "name": "Millennium Tower",
+    "lat": 37.79042,
+    "lon": -122.396187
+  },
+  {
+    "rank": 7,
+    "name": "The Avery",
+    "lat": 37.787759,
+    "lon": -122.394564
+  },
+  {
+    "rank": 8,
+    "name": "Park Tower at Transbay",
+    "lat": 37.7903676,
+    "lon": -122.394305
+  },
+  {
+    "rank": 9,
+    "name": "One Rincon Hill",
+    "lat": 37.785766,
+    "lon": -122.392162
+  },
+  {
+    "rank": 10,
+    "name": "101 California Street",
+    "lat": 37.7928646,
+    "lon": -122.397956
+  },
+  {
+    "rank": 11,
+    "name": "Salesforce West",
+    "lat": 37.790515,
+    "lon": -122.397272
+  },
+  {
+    "rank": 12,
+    "name": "575 Market Street",
+    "lat": 37.78957,
+    "lon": -122.40038
+  },
+  {
+    "rank": 13,
+    "name": "Four Embarcadero Center",
+    "lat": 37.795306,
+    "lon": -122.396198
+  },
+  {
+    "rank": 14,
+    "name": "One Embarcadero Center",
+    "lat": 37.794485,
+    "lon": -122.39962
+  },
+  {
+    "rank": 15,
+    "name": "44 Montgomery Street",
+    "lat": 37.789848,
+    "lon": -122.401877
+  },
+  {
+    "rank": 16,
+    "name": "Spear Tower",
+    "lat": 37.793294,
+    "lon": -122.394531
+  },
+  {
+    "rank": 17,
+    "name": "One Sansome Street",
+    "lat": 37.790422,
+    "lon": -122.401278
+  },
+  {
+    "rank": 18,
+    "name": "The Harrison",
+    "lat": 37.786417,
+    "lon": -122.392044
+  },
+  {
+    "rank": 19,
+    "name": "One Front Street",
+    "lat": 37.791833,
+    "lon": -122.39884
+  },
+  {
+    "rank": 20,
+    "name": "McKesson Plaza",
+    "lat": 37.7887828,
+    "lon": -122.402673
+  },
+  {
+    "rank": 21,
+    "name": "First Market Tower",
+    "lat": 37.790521,
+    "lon": -122.39918
+  },
+  {
+    "rank": 22,
+    "name": "425 Market Street",
+    "lat": 37.791214,
+    "lon": -122.39816
+  },
+  {
+    "rank": 23,
+    "name": "Four Seasons Private Residences at 706 Mission Street",
+    "lat": 37.786059,
+    "lon": -122.4027877
+  },
+  {
+    "rank": 24,
+    "name": "One Montgomery Tower",
+    "lat": 37.789216,
+    "lon": -122.4033186
+  },
+  {
+    "rank": 25,
+    "name": "333 Bush Street",
+    "lat": 37.79061,
+    "lon": -122.40309
+  },
+  {
+    "rank": 26,
+    "name": "Hilton San Francisco Union Square",
+    "lat": 37.785399,
+    "lon": -122.410968
+  },
+  {
+    "rank": 27,
+    "name": "Pacific Gas & Electric Building",
+    "lat": 37.79178,
+    "lon": -122.395772
+  },
+  {
+    "rank": 28,
+    "name": "50 California Street",
+    "lat": 37.794083,
+    "lon": -122.39744
+  },
+  {
+    "rank": 29,
+    "name": "555 Mission Street",
+    "lat": 37.78853,
+    "lon": -122.3985507
+  },
+  {
+    "rank": 30,
+    "name": "St. Regis Museum Tower",
+    "lat": 37.786359,
+    "lon": -122.40133
+  },
+  {
+    "rank": 31,
+    "name": "100 Pine Center",
+    "lat": 37.79261,
+    "lon": -122.399003
+  },
+  {
+    "rank": 32,
+    "name": "45 Fremont Street",
+    "lat": 37.791237,
+    "lon": -122.397162
+  },
+  {
+    "rank": 33,
+    "name": "333 Market Street",
+    "lat": 37.791945,
+    "lon": -122.39742
+  },
+  {
+    "rank": 34,
+    "name": "650 California Street",
+    "lat": 37.79287,
+    "lon": -122.405216
+  },
+  {
+    "rank": 35,
+    "name": "100 First Plaza",
+    "lat": 37.789297,
+    "lon": -122.39756
+  },
+  {
+    "rank": 36,
+    "name": "340 Fremont Street",
+    "lat": 37.78703,
+    "lon": -122.3928
+  },
+  {
+    "rank": 37,
+    "name": "One California",
+    "lat": 37.793225,
+    "lon": -122.397213
+  },
+  {
+    "rank": 38,
+    "name": "San Francisco Marriott Marquis",
+    "lat": 37.785381,
+    "lon": -122.404299
+  },
+  {
+    "rank": 39,
+    "name": "140 New Montgomery",
+    "lat": 37.786735,
+    "lon": -122.400012
+  },
+  {
+    "rank": 40,
+    "name": "Russ Building",
+    "lat": 37.791426,
+    "lon": -122.402733
+  },
+  {
+    "rank": 41,
+    "name": "500 Folsom",
+    "lat": 37.78727,
+    "lon": -122.39511
+  },
+  {
+    "rank": 42,
+    "name": "415 Natoma Street",
+    "lat": 37.7814,
+    "lon": -122.40587
+  },
+  {
+    "rank": 43,
+    "name": "Jasper",
+    "lat": 37.785853,
+    "lon": -122.39375
+  },
+  {
+    "rank": 44,
+    "name": "MIRA",
+    "lat": 37.79012,
+    "lon": -122.3915
+  },
+  {
+    "rank": 45,
+    "name": "505 Montgomery Street",
+    "lat": 37.793983,
+    "lon": -122.40336
+  },
+  {
+    "rank": 46,
+    "name": "Fifteen Fifty",
+    "lat": 37.773755,
+    "lon": -122.418341
+  },
+  {
+    "rank": 47,
+    "name": "JPMorgan Chase Building",
+    "lat": 37.788805,
+    "lon": -122.39947
+  },
+  {
+    "rank": 48,
+    "name": "The Infinity II",
+    "lat": 37.789427,
+    "lon": -122.390644
+  },
+  {
+    "rank": 49,
+    "name": "The Paramount",
+    "lat": 37.786728,
+    "lon": -122.401956
+  },
+  {
+    "rank": 50,
+    "name": "Providian Financial Building",
+    "lat": 37.791244,
+    "lon": -122.395006
+  }
+]
