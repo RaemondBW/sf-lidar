@@ -118,6 +118,32 @@ python scripts/make_profiles.py \
   --azimuths 240
 ```
 
+## Generating a skyline
+
+Combine multiple buildings' LAZ files into a single wide-angle skyline PNG using `make_skyline_points.py`. This renders all points from a merged LAZ, centered on a reference building's footprint, projected to a chosen view direction.
+
+1. Merge the LAZ files you want in the skyline (e.g. using PDAL or `las2las`), or pass a single large clip.
+
+2. Render the skyline:
+```bash
+python scripts/make_skyline_points.py \
+  --input data/lidar/downtown_merged.laz \
+  --center-footprint data/footprints/ferry_building.geojson \
+  --azimuth 240 \
+  --out output/skyline.png
+```
+
+Key options:
+- `--center-footprint` — GeoJSON footprint whose centroid becomes the horizontal origin (camera looks at this building).
+- `--azimuth` — View direction in degrees from north (default `240`).
+- `--pixels-per-meter` — Output scale (default `5.0`). Use the same value across renders for consistent scale.
+- `--min-height` — Drop ground-level noise below this height in meters (default `2.0`).
+- `--sample` — Max points to render; randomly subsampled if exceeded (default `1500000`).
+- `--point-size` / `--alpha` — Control point rendering density and opacity.
+- `--pad-m` — Extra padding around the extents in meters.
+
+The output is a transparent-background PNG.
+
 ## Notes
 - The USGS EPT for `CA_SanFrancisco_1_B23` is in EPSG:3857, so footprints are reprojected before clipping.
 - If the DataSF footprint doesn’t include a newer building, let me know and we can switch to OpenStreetMap footprints.
